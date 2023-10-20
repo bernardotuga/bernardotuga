@@ -1,6 +1,6 @@
 - Hi, I’m Bernardo Pinto Leite
-- BSc Astrophysics
-- I'm a data analyst
+- BSc (hons) Astrophysics
+- Work as a data analyst
 - Currently doing Masters in Data Science
   
 <!---

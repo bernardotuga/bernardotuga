@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bernardotuga
-- 👀 I'm a data anlyst
+- 👀 I'm a data analyst
 - 🌱 I’m currently doing a Masters in Data Science
   
 <!---

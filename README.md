@@ -1,6 +1,7 @@
-- Hi, I’m @bernardotuga
+- Hi, I’m Bernardo Pinto Leite
+- BSc Astrophysics
 - I'm a data analyst
-- I’m currently doing a Masters in Data Science
+- Currently doing Masters in Data Science
   
 <!---
 bernardotuga/bernardotuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
